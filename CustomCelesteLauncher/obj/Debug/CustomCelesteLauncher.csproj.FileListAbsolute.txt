@@ -1,0 +1,42 @@
+C:\Users\James\Documents\Visual Studio 2015\Projects\CustomCelesteLauncher\CustomCelesteLauncher\bin\Debug\AOEOnline.exe
+C:\Users\James\Documents\Visual Studio 2015\Projects\CustomCelesteLauncher\CustomCelesteLauncher\bin\Debug\AOEOnline.exe.config
+C:\Users\James\Documents\Visual Studio 2015\Projects\CustomCelesteLauncher\CustomCelesteLauncher\bin\Debug\AOEOnline.pdb
+C:\Users\James\Documents\Visual Studio 2015\Projects\CustomCelesteLauncher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.About.resources
+C:\Users\James\Documents\Visual Studio 2015\Projects\CustomCelesteLauncher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.Login.resources
+C:\Users\James\Documents\Visual Studio 2015\Projects\CustomCelesteLauncher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.launcherWindow.resources
+C:\Users\James\Documents\Visual Studio 2015\Projects\CustomCelesteLauncher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.installCeleste.resources
+C:\Users\James\Documents\Visual Studio 2015\Projects\CustomCelesteLauncher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.Properties.Resources.resources
+C:\Users\James\Documents\Visual Studio 2015\Projects\CustomCelesteLauncher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.UpdateDialog.resources
+C:\Users\James\Documents\Visual Studio 2015\Projects\CustomCelesteLauncher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.csproj.GenerateResource.Cache
+C:\Users\James\Documents\Visual Studio 2015\Projects\CustomCelesteLauncher\CustomCelesteLauncher\obj\Debug\AOEOnline.exe
+C:\Users\James\Documents\Visual Studio 2015\Projects\CustomCelesteLauncher\CustomCelesteLauncher\obj\Debug\AOEOnline.pdb
+C:\Users\James\documents\visual studio 2015\Projects\CustomCelesteLauncher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\CelesteCustomLauncher\CustomCelesteLauncher\bin\Debug\AOEOnline.exe.config
+C:\Users\James\Documents\CelesteCustomLauncher\CustomCelesteLauncher\obj\Debug\AOEOnline.exe
+C:\Users\James\Documents\CelesteCustomLauncher\CustomCelesteLauncher\obj\Debug\AOEOnline.pdb
+C:\Users\James\Documents\CelesteCustomLauncher\CustomCelesteLauncher\bin\Debug\AOEOnline.exe
+C:\Users\James\Documents\CelesteCustomLauncher\CustomCelesteLauncher\bin\Debug\AOEOnline.pdb
+C:\Users\James\Documents\CelesteCustomLauncher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.About.resources
+C:\Users\James\Documents\CelesteCustomLauncher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.Login.resources
+C:\Users\James\Documents\CelesteCustomLauncher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.launcherWindow.resources
+C:\Users\James\Documents\CelesteCustomLauncher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.installCeleste.resources
+C:\Users\James\Documents\CelesteCustomLauncher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.Properties.Resources.resources
+C:\Users\James\Documents\CelesteCustomLauncher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.UpdateDialog.resources
+C:\Users\James\Documents\CelesteCustomLauncher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.csproj.GenerateResource.Cache
+C:\Users\James\Documents\CelesteCustomLauncher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CustomCelesteLauncher\bin\Debug\AOEOnline.exe.config
+C:\Users\James\Desktop\CustomCelesteLauncher\obj\Debug\AOEOnline.exe
+C:\Users\James\Desktop\CustomCelesteLauncher\obj\Debug\AOEOnline.pdb
+C:\Users\James\Documents\GitHub\Celeste-Launcher\CustomCelesteLauncher\bin\Debug\AOEOnline.exe.config
+C:\Users\James\Documents\GitHub\Celeste-Launcher\CustomCelesteLauncher\obj\Debug\AOEOnline.exe
+C:\Users\James\Documents\GitHub\Celeste-Launcher\CustomCelesteLauncher\obj\Debug\AOEOnline.pdb
+C:\Users\James\Documents\GitHub\Celeste-Launcher\CustomCelesteLauncher\bin\Debug\AOEOnline.exe
+C:\Users\James\Documents\GitHub\Celeste-Launcher\CustomCelesteLauncher\bin\Debug\AOEOnline.pdb
+C:\Users\James\Documents\GitHub\Celeste-Launcher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\GitHub\Celeste-Launcher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.About.resources
+C:\Users\James\Documents\GitHub\Celeste-Launcher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.Login.resources
+C:\Users\James\Documents\GitHub\Celeste-Launcher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.launcherWindow.resources
+C:\Users\James\Documents\GitHub\Celeste-Launcher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.installCeleste.resources
+C:\Users\James\Documents\GitHub\Celeste-Launcher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.Properties.Resources.resources
+C:\Users\James\Documents\GitHub\Celeste-Launcher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.UpdateDialog.resources
+C:\Users\James\Documents\GitHub\Celeste-Launcher\CustomCelesteLauncher\obj\Debug\CustomCelesteLauncher.csproj.GenerateResource.Cache
